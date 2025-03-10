@@ -56,7 +56,7 @@ Sí, la heurística es admisible porque no sobreestima el costo real hasta el ob
 
 ## Ejercicio Coste Uniforme Ciudades
 
-![Coste Uniforme Ciudades Mapa](Ejercicio3.png)
+![Coste Uniforme Ciudades Mapa](images/Ejercicio3.png)
 ![Coste Uniforme Ciudades](busqueda_coste_uniforme_ruta_ourense_calatayud.md)
 
 ---
@@ -64,8 +64,8 @@ Sí, la heurística es admisible porque no sobreestima el costo real hasta el ob
 
 ## Ejercicio del Metro de Tokio
 
-![Metro de Tokio 1](imagen1_tokyo-tub.jpg)
-![Metro de Tokio 2](imagen2_tokyo-tub.jpg)
-![Metro de Tokio 3](imagen3_tokyo-tub.jpg)
-![Metro de Tokio 4](arbol_tokyo-tub.jpg)
+![Metro de Tokio 1](images/imagen1_tokyo-tub.jpg)
+![Metro de Tokio 2](images/imagen2_tokyo-tub.jpg)
+![Metro de Tokio 3](images/imagen3_tokyo-tub.jpg)
+![Metro de Tokio 4](images/arbol_tokyo-tub.jpg)
 
