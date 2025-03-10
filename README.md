@@ -57,6 +57,9 @@ Sí, la heurística es admisible porque no sobreestima el costo real hasta el ob
 ## Ejercicio Coste Uniforme Ciudades
 
 ![Coste Uniforme Ciudades Mapa](images/Ejercicio3.png)
+
+Para acceder a la explicación paso a paso del ejercicio basado en la siguiente imagen, podrás clicar el siguiente enlace que te llevará al archivo con dicha explicación.
+
 ![Coste Uniforme Ciudades](busqueda_coste_uniforme_ruta_ourense_calatayud.md)
 
 ---
