@@ -14,7 +14,7 @@ Este repositorio contiene ejercicios resueltos de diferentes algoritmos de búsq
 ## Búsqueda en Anchura
 Este ejercicio resuelve un problema utilizando el algoritmo de búsqueda en anchura.
 
-![Búsqueda en Anchura](images/BUsqueda anchura.jpg)
+![Búsqueda en Anchura](images/BUsqueda_anchura.jpg)
 
 ---
 
