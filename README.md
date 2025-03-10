@@ -65,7 +65,7 @@ Sí, la heurística es admisible porque no sobreestima el costo real hasta el ob
 ## Ejercicio del Metro de Tokio
 
 ![Metro de Tokio 1](imagen1_tokyo-tub.jpg)
-![Metro de Tokio 1](imagen2_tokyo-tub.jpg)
-![Metro de Tokio 1](imagen3_tokyo-tub.jpg)
-![Metro de Tokio 1](arbol_tokyo-tub.jpg)
+![Metro de Tokio 2](imagen2_tokyo-tub.jpg)
+![Metro de Tokio 3](imagen3_tokyo-tub.jpg)
+![Metro de Tokio 4](arbol_tokyo-tub.jpg)
 
